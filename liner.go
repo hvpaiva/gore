@@ -11,8 +11,8 @@ import (
 )
 
 const (
-	promptDefault  = "gore> "
-	promptContinue = "..... "
+	promptDefault  = ":= "
+	promptContinue = ".. "
 	indent         = "    "
 )
 
